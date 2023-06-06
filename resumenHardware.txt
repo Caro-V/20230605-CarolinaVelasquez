@@ -1,0 +1,4 @@
+Listas 3 memorias principales de la computadora:
+1. Registros de la CPU
+2. Cache
+3. RAM
