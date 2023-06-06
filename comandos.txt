@@ -1,0 +1,15 @@
+ 501  git init
+  502  git remote add origin https://github.com/Caro-V/20230605-CarolinaVelasquez.git
+  503  git add .
+  504  git status
+  505  git commit -m "commit 01 de CarolinaVelasquez"
+  506  git push origin main
+  507  git checkout -b feature
+  508  git add .
+  509  git commit -m "commit 02 de CarolinaVelasquez"
+  510  git push origin feature
+  511  git checkout main
+  512  git add .
+  513  git status
+  514  git commit -m "commit 03 de CarolinaVelasquez"
+  515  git push origin main
